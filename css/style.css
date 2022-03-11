@@ -244,6 +244,10 @@ img {
 #reported{
   display: none;
 }
+/* For a better radius.... MAde by me */
+.rounded-9{
+  border-radius: 40px;
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
